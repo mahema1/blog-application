@@ -1,2 +1,2 @@
-# blog-application
+# Blog-application
 Full-stack application MERN stack
