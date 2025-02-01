@@ -1,4 +1,11 @@
 # Blog-application
-Full-stack application MERN stack\
+Full-stack application MERN stack
 
-jrvj
+\
+-- create two directories in your environment 
+1. client
+2. api
+
+
+
+
