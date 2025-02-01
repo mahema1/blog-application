@@ -5,6 +5,5 @@ Full-stack application MERN stack
 1. client
 2. api
 
-
-
-
+### run
+yarn create react-app .
