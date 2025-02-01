@@ -8,3 +8,6 @@ Full-stack application MERN stack
 ### run
 yarn create react-app . \ 
 yarn start
+
+## api-> run
+yarn add express
