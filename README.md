@@ -10,4 +10,6 @@ yarn create react-app . \
 yarn start
 
 ## api-> run
-yarn add express
+yarn add express \
+node index.js\
+nodemon index.js
