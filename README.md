@@ -6,5 +6,5 @@ Full-stack application MERN stack
 2. api
 
 ### run
-yarn create react-app . \
+yarn create react-app . \ 
 yarn start
