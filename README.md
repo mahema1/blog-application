@@ -4,7 +4,7 @@ Full-stack application MERN stack
 ## versions
 react@18.2.0\
 react-dom@18.2.0\
-react-quill@2.0.0\
+react-quill@2.0.0
 
 
 ## Create two directories in your environment 
