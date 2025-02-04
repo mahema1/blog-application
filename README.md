@@ -17,5 +17,5 @@ yarn start
 
 ## api-> run
 yarn add express \
-node index.js\
+node index.js\ 
 nodemon index.js
