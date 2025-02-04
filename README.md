@@ -12,10 +12,10 @@ react-quill@2.0.0
 2. api
 
 ### run
-yarn create react-app . \  
+yarn create react-app . \
 yarn start
 
 ## api-> run
 yarn add express \
-node index.js\ 
+node index.js\
 nodemon index.js 
