@@ -1,4 +1,4 @@
-# Blog-application
+# Blog-application From Scratch
 Full-stack application MERN stack 
 
 ## versions
