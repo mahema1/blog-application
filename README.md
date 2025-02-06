@@ -6,7 +6,7 @@ react@18.2.0\
 react-dom@18.2.0\
 react-quill@2.0.0
 
-
+ 
 ## Create two directories in your environment 
 1. client
 2. api
