@@ -10,7 +10,7 @@ react-quill@2.0.0
 ## Create two directories in your environment 
 1. client
 2. api
- 
+
 ### run
 yarn create react-app . \
 yarn start
