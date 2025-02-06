@@ -15,7 +15,7 @@ react-quill@2.0.0
 yarn create react-app . \
 yarn start
 
-## api-> run
+## api-> run 
 yarn add express \
 node index.js\
 nodemon index.js
