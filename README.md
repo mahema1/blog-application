@@ -1,5 +1,5 @@
 # Blog-application From Scratch 
-Full-stack application MERN stack 
+Full-stack application MERN stack  
 
 ## versions
 react@18.2.0\
