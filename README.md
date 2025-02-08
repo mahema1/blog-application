@@ -123,5 +123,5 @@ Developed by **Mahema Reddy Nelaturi**
 
 Feel free to contribute, report issues, or suggest improvements!
 
-🔗 **GitHub Repository:** [your-repo-link-here]
+🔗 **GitHub Repository:** [(https://github.com/mahema1/blog-application.git)]
 
