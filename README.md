@@ -114,8 +114,8 @@ yarn start
 - Deploy the application to **Heroku/Vercel** (frontend) and **Render** (backend)
 
 ---
-## License
-This project is open-source and available under the **MIT License**.
+
+This project is open-source 
 
 ---
 ## Author
